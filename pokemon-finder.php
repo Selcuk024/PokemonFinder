@@ -2,7 +2,6 @@
 
 /**
  * Plugin Name: Pokemon Finder
- * Plugin URI:
  * Description: Find your favorite Pokemon easily.
  * Version:     1.0
  * Author:      Selcuk Dogan
